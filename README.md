@@ -1,2 +1,2 @@
-# PyPoll-wiith-Python
+# PyPoll-with-Python
 Voting analysis using python
